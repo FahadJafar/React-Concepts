@@ -37,7 +37,7 @@ const Navbar = () => {
 
           <NavLink to="/add">Add</NavLink>
           <NavLink to="/Prac">Weather</NavLink>
-          <NavLink to="/Rdx">REdux</NavLink>
+          <NavLink to="/Rdx">Redux</NavLink>
           <NavLink onClick={handleLogout} to="/Login">{N}</NavLink>
         </nav>
       </div>

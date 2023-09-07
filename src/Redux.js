@@ -8,17 +8,24 @@ const Redux = () => {
   const dispatch = useDispatch();
   return (
     <div className="Redux">
-      {count}
-      {name}
+      {count}<br></br>
+      
+      {name}<br></br>
+      
       <button onClick={() => dispatch(increment())}>Increment</button>
       <button onClick={() => dispatch(incrementbyAmount(22))}>
-      
         Increment By amount
       </button>
       
+      
       <button onClick={() => dispatch(printName("Fahad"))}>Set Name</button>
+      
       <button onClick={()=>dispatch(clearData())}>Clear Values</button>
+
+
+      
     </div>
+ 
   );
 };
 
