@@ -17,7 +17,7 @@ const Practice = () => {
     <div className="Practice">
       <div className="Inside">
  {count}
-        <h4> {temp}°C</h4>
+        <h4> {temp}°°C</h4>
         <button onClick={() => setTemp(temp + 1)}>+</button>
         <button onClick={() => setTemp(temp - 1)}>-</button>
       
