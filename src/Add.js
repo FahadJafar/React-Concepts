@@ -27,7 +27,7 @@ const EditAdd = () => {
       formData.body === "" ||
       formData.userId === ""
     ) {
-      alert("One of the Fields is empty! Please Fill Fields Correctly");
+      alert("One OF the Fields is empty! Please Fill Fields Correctly");
     } else {
       if (isEditMode) {
         axios

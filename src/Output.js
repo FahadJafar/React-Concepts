@@ -6,7 +6,9 @@ const Output = (props) => {
       {data &&
         data.map((D) => (
           <div className="content" key={D.id}>
-            <h2>Title {D.id}:</h2>
+            <h2>ID: </h2>
+            <p>{D.id}</p>
+            <h2>Title :</h2>
             <p>{D.title}</p>
 
             <h2>Body :</h2>
