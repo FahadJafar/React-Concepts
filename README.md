@@ -1,3 +1,9 @@
+**This React-Project Focuses on using all the HTTP Methods (GET,POST,PUT,DELETE) using axios and fetch
+with the usage of hooks useState,useEffect,useParams,useLocation,useMeMo etc.
+Dynamic Routing , Protective Routing , HOC.
+Redux is also included in this Project.**
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
