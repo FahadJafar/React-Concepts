@@ -36,7 +36,7 @@ const Navbar = () => {
           <NavLink to="/home">Home</NavLink>
 
           <NavLink to="/add">Add</NavLink>
-          <NavLink to="/Prac">Weather</NavLink>
+        
           <NavLink to="/Rdx">Redux</NavLink>
           <NavLink onClick={handleLogout} to="/Login">{N}</NavLink>
         </nav>
