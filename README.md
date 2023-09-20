@@ -1,7 +1,23 @@
-**This React-Project Focuses on using all the HTTP Methods (GET,POST,PUT,DELETE) using axios and fetch
-with the usage of hooks useState,useEffect,useParams,useLocation,useMeMo etc.
-Dynamic Routing , Protective Routing , HOC.
-Redux is also included in this Project.**
+**
+## React Skills Showcase Project
+This project serves as a demonstration of various skills and techniques in React, showcasing the use of multiple APIs, data mapping onto the UI, Context API for user authentication, Redux, Tailwind CSS, and various React hooks.
+## Features
+- Utilizes four different API methods to retrieve and manipulate data.
+- Demonstrates how to map data from an API onto the UI.
+- Implements Context API for maintaining user authentication state.
+- Incorporates Redux for global state management.
+- Utilizes Tailwind CSS for styling and layout.
+- Demonstrates the usage of React hooks, including useState, useEffect, and useMemo.
+- Implements various routing concepts, including protective routing and dynamic routing.
+- Illustrates how to send data from child components to parent components.
+## Technologies Used
+- React
+- Context API
+- Redux
+- Tailwind CSS
+- React Hooks (e.g., useState, useEffect, useMemo)
+- React Router
+**
 
 
 # Getting Started with Create React App
