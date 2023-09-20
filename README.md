@@ -6,7 +6,6 @@ This project serves as a demonstration of various skills and techniques in React
 - Demonstrates how to map data from an API onto the UI.
 - Implements Context API for maintaining user authentication state.
 - Incorporates Redux for global state management.
-- Utilizes Tailwind CSS for styling and layout.
 - Demonstrates the usage of React hooks, including useState, useEffect, and useMemo.
 - Implements various routing concepts, including protective routing and dynamic routing.
 - Illustrates how to send data from child components to parent components.
