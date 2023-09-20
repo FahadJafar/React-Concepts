@@ -1,4 +1,3 @@
-**
 ## React Skills Showcase Project
 This project serves as a demonstration of various skills and techniques in React, showcasing the use of multiple APIs, data mapping onto the UI, Context API for user authentication, Redux, Tailwind CSS, and various React hooks.
 ## Features
@@ -16,7 +15,7 @@ This project serves as a demonstration of various skills and techniques in React
 - Tailwind CSS
 - React Hooks (e.g., useState, useEffect, useMemo)
 - React Router
-**
+
 
 
 # Getting Started with Create React App
